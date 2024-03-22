@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: cursive;
+}
+body{
+    background-color: #edededa5;
+}
+.container{
+    height: 100vh;
+}
+.background{
+   background-image: url(https://wallpapers-clan.com/wp-content/uploads/2022/08/meme-gif-pfp-7.gif);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.fixed-height{
+    height: 300px;
+}
+section{
+    background-color: #FFFFFF;
+    opacity: 80%;
+}
